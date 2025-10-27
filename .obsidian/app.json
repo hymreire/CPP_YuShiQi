@@ -8,5 +8,6 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./attachments",
   "foldHeading": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "showUnsupportedFiles": true
 }

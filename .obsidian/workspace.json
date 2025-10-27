@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "48c59155c257bd40",
+        "id": "46fad8ed6bb7f421",
         "type": "tabs",
         "children": [
           {
-            "id": "51e301f48f58bfe8",
+            "id": "ba4d9aea10dd6fbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Lec7/Lec7.函数高级用法.md",
-                "mode": "preview",
+                "file": "0_My_Note/Lec8_ARM_程序加速/Lec8_ARM_程序加速.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lec7.函数高级用法"
+              "title": "Lec8_ARM_程序加速"
             }
           }
         ]
@@ -165,8 +165,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "51e301f48f58bfe8",
+  "active": "84be256731936ce8",
   "lastOpenFiles": [
+    "0_My_Note/Lec7_函数的高级用法/Lec7.函数高级用法.md",
+    "0_My_Note/Lec8_ARM_程序加速/Lec8_ARM_程序加速.md",
+    "0_My_Note/Lec8_ARM_程序加速",
+    "0_My_Note/Lec8",
+    "0_My_Note/新建文件夹",
     "Note/Lec7/Lec7.函数高级用法.md",
     "week07/Lecture07.pdf",
     "Note",
@@ -179,7 +184,6 @@
     "Notes/Lec5.md",
     "a.out",
     "memoryleak.c",
-    "Notes",
     "未命名.canvas",
     "未命名 1.canvas",
     "README.md"
